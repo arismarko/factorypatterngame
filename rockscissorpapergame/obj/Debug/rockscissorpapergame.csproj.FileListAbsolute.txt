@@ -1,0 +1,6 @@
+c:\users\aris\documents\visual studio 2013\Projects\rockscissorpapergame\rockscissorpapergame\bin\Debug\rockscissorpapergame.exe.config
+C:\Users\Aris\documents\visual studio 2013\Projects\rockscissorpapergame\rockscissorpapergame\obj\Debug\rockscissorpapergame.csprojResolveAssemblyReference.cache
+C:\Users\Aris\documents\visual studio 2013\Projects\rockscissorpapergame\rockscissorpapergame\bin\Debug\rockscissorpapergame.exe
+C:\Users\Aris\documents\visual studio 2013\Projects\rockscissorpapergame\rockscissorpapergame\bin\Debug\rockscissorpapergame.pdb
+C:\Users\Aris\documents\visual studio 2013\Projects\rockscissorpapergame\rockscissorpapergame\obj\Debug\rockscissorpapergame.exe
+C:\Users\Aris\documents\visual studio 2013\Projects\rockscissorpapergame\rockscissorpapergame\obj\Debug\rockscissorpapergame.pdb
